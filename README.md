@@ -1,4 +1,6 @@
-# Eduardo Assis do Carmo — Data Center & Azure Portfolio
+# Data Center & Azure Portfolio
+
+Atuo em infraestrutura crítica com experiência prática em Data Centers, BAS, HVAC e monitoramento ambiental. Estou expandindo essa base para Microsoft Azure, com foco em alta disponibilidade, operação crítica e integração entre infraestrutura física e cloud.
 
 **Data Center Infrastructure Specialist | BAS | HVAC | Azure (In Progress)**
 
@@ -56,13 +58,11 @@ Laboratórios voltados para a transição de infraestrutura física para cloud:
 ## Objetivo profissional
 Atuar em projetos de **Data Center**, **Cloud Infrastructure**, **Critical Environment** e **Microsoft Azure**, unindo experiência prática de campo com evolução em tecnologias de nuvem.
 
-## Contato
+Contato
 - **Nome:** Eduardo Assis do Carmo
 - **Email:** eduardoassisfaro@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/eduardo-do-carmo/
 
-## Sugestão de headline para LinkedIn
 **Data Center Infrastructure Specialist | BAS | HVAC | Azure | Critical Environment**
 
-## Sugestão de descrição curta para recrutadores
-Atuo em infraestrutura crítica com experiência prática em Data Centers, BAS, HVAC e monitoramento ambiental. Estou expandindo essa base para Microsoft Azure, com foco em alta disponibilidade, operação crítica e integração entre infraestrutura física e cloud.
+
